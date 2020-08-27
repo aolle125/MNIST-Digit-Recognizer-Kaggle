@@ -1,1 +1,1 @@
-# MNIST-Digit-Recognizer-Kaggle-99.446-
+# MNIST-Digit-Recognizer-Kaggle-(99.446%)
